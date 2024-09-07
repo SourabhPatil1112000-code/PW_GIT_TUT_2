@@ -1,3 +1,8 @@
 Dev A creates a new repo and uploads it on github.
 Now Dev B downloads it and wants to contribute to the project then Dev A 
 needs to add Dev B as a "Contributor".
+
+While doing git push we need to mention the name of the remote repo.
+Because there can be multiple remote repo attached to a local project.
+
+git remote add origin "Link"
