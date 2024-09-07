@@ -1,0 +1,3 @@
+Dev A creates a new repo and uploads it on github.
+Now Dev B downloads it and wants to contribute to the project then Dev A 
+needs to add Dev B as a "Contributor".
